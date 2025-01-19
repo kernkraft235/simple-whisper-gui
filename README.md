@@ -8,3 +8,6 @@ to run as a python file
 pip3 install -r requirements.txt
 python whisper-gui.py
 ```
+
+
+To use a larger or smaller whisper version, edit line 23 in  `whisper-gui.py`
