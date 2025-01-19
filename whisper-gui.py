@@ -20,7 +20,7 @@ import whisper
 # ----------------------#
 #    CONFIG VARIABLES   #
 # ----------------------#
-MODEL_NAME = "base"  # Choose from: tiny, base, small, medium, large, etc.
+MODEL_NAME = "turbo"  # Choose from: tiny, base, small, medium, large, etc.
 ENABLE_TIMESTAMPS = True
 
 def print_help():
