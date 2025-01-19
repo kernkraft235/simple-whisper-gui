@@ -1,0 +1,4 @@
+torch-directml
+openai-whisper
+tkinter # newer python versions don't need this and will output an error you can ignore
+pyinstaller # if you want to make this an exe
